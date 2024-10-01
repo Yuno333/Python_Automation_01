@@ -1,0 +1,7 @@
+
+Make sure to update your chrome to the latest version 
+
+Download chrome driver
+
+
+https://googlechromelabs.github.io/chrome-for-testing/
